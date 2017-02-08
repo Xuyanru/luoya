@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>邯郸婚纱摄影_罗亚摄影_邯郸高端婚纱摄影_韩式婚纱照_华人世界时尚摄影连锁机构LISA集团旗下首推高端品牌罗亚摄影</title>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+    <div id="header"></div>
+    <div class="mainbody">
+        <div>
+            <ul>
+                <li class="f36 txt_red txtcenter">PHOTOGRAPHY CONCEPT&nbsp;<span class="txt_black">摄影理念</span></li>
+                <li class="f28 txt_hui txtcenter">罗亚追求个性化，张扬个性化，引领时尚，提供充分发挥自我的无限空间</li>
+            </ul>
+        </div>
+        <div class="pageboxcontent">
+            <p>
+                <img src="uploads/image/20160311/1457650441.jpg" alt="" />
+            </p>
+            <p>
+                <br />
+            </p>
+            <p>
+                ROYAL私人摄影订制典范，坚持追求并探索的是摄影态度，ROYAL将瞬间消失的美妙时光化为永恒定格的摄影艺术品。一直在努力创造超乎寻常的时间感。有趣。自由。不受束缚。敢于表达欲望。追求更深层次的沉淀。
+            </p>
+            <br />
+            <p>
+            royal相信所有人的心中都有一幅画面。渴望过、幻想过、感动过，不会遗忘的画面。royal更愿意将这画面呈现成故事，讲给你听，哪怕你认为的自己再普通，她也早在不知不觉连你自己都不知道的时候开始闪闪发着漂亮的光。关注身边细小的，美丽的事物，以真挚而单纯的眼光，去寻找并发现。树立属于royal的时尚态度。<br />
+            <br />
+            所以,对于royal来说，摄影绝不仅仅是造型化妆拍摄的简单流程。摄影做为精神消费的一种，在社会日渐进步的现代散发出越来越充足的魅力。在royal心中，它包含了更辽阔与温柔的意义。royal在打造极美瞬间的同时，不断地把真实的情感融入其中，将摄影的意义极致表达。
+            </p>
+            <br/>
+            <p>
+                摄影是一种更自由的艺术形式。royal相信。幻想的世界与真实的世界的连结总需要一个结点。简单即是美，真诚即是美，极简主义的审美概念，更高站位的创意传统，在royal的团队里一直保持并流传。
+            </p>
+            <p>
+                <br />
+            </p>
+            <br />		<div class="txtcenter"><img src="uploads/image/20160311/1457647140.jpg" /></div>	</div>
+    </div>
+    <div id="footer"></div>
+<script src="js/jquery-1.11.3.js"></script>
+<script src="js/index.js"></script>
+<script>
+	$(function(){
+		$("#header").load("data/header.php",function(){
+			$("#main_nav>li:nth-child(2)>a").addClass("active");
+		})
+	});
+</script>
+</body>
+</html>

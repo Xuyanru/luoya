@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>邯郸婚纱摄影_罗亚摄影_邯郸高端婚纱摄影_韩式婚纱照_华人世界时尚摄影连锁机构LISA集团旗下首推高端品牌罗亚摄影</title>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+    <div id="header"></div>
+        <div class="mainbody">
+            <div class="f36 txt_red txtcenter pt20">
+                TIME ACTIVITY 
+                <span class="txt_black">限时活动</span>
+            </div>
+            <div class="txtcenter txt_hui f28">为您精心打造专属的ROYAL，喜爱摄影将从罗亚开始！</div>
+            <div class="w1200 huodong_content">
+                <ul class="lf">
+                    <li>
+                        <a href="#">
+                           <img src="uploads/image/20160901/1472704748.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">惠享9月,特惠￥3000,让你清凉一夏!</a>
+                           
+                        </div>
+                    </li>
+                </ul>
+                <ul class="lf">
+                    <li>
+                        <a href="#">
+                            <img src="uploads/image/20160808/1470634364.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">罗亚摄影·￥4280青岛特惠海景，约么？</a>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="lf">
+                    <li>
+                        <a href="#">
+                           <img src="uploads/image/20160719/1468904600.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">致闺蜜，仅需￥899，来一起美下去吧~</a>
+                        
+                            <div>被风系起的夏天，那是闺蜜们拍照的季节！ 前所未有冰点价￥899元， （限2人之内，多加一人加￥300） 闺蜜照+300元，轻松畅拍 只需￥520</div>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="lf">
+                    <li>
+                        <a href="#">
+                            <img src="uploads/image/20160620/1466408425.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">￥4280特惠海景让你清凉一夏！</a>
+                           
+                            <div>靓丽的夏季 罗亚摄影为你准备了三大疯狂套系 ￥4280特惠海景 ￥520夏日写真 ￥973闺蜜照 活动就是这么震撼！ 就是这么招人喜欢！ 在罗亚摄影，放肆的任性一次吧!</div>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="lf">
+                    <li >
+                        <a href="#">
+                           <img src="uploads/image/20160519/1463654639.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">520放肆拍！大胆爱！</a>
+                           
+                        </div>
+                    </li>
+                </ul>
+                <ul class="lf">
+                    <li>
+                        <a href="#">
+                           <img src="uploads/image/20160319/1461925670.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">五一提前放"价"，订一套送一套！</a>
+                           
+                        </div>
+                    </li>
+                </ul>
+                <ul class="lf">
+                    <li>
+                        <a href="#">
+                            <img src="uploads/image/20160303/1461036711.jpg">
+                        </a>
+                    </li>
+                    <li class="inner">
+                        <div class="service_title p10">
+                            <a href="#">黄金档期全面告急！2大价格战等你来拿！</a>
+                           
+                        </div>
+                    </li>
+                </ul>
+            </div>
+     </div>
+    <div class="clear"></div>
+    <div id="footer"></div>
+<script src="js/jquery-1.11.3.js"></script>
+<script src="js/index.js"></script>
+<script>
+	$(function(){
+		$("#header").load("data/header.php",function(){
+			$("#main_nav>li:nth-child(5)>a").addClass("active");
+		})
+	});
+</script>
+</body>
+</html>
