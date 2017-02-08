@@ -1,2 +1,0 @@
-# luoya
-html+css+jquery
